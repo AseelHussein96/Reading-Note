@@ -27,4 +27,4 @@ GitHub is so often touted as a tool for coding projects that it's easy to forget
 | ASSIGNMENT 15 |               | 
 
 
-* This web page will be about Assignment for this news subject at  *class201*
+* This web page will be about Assignment for this new subject at  *class201*
