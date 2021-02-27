@@ -10,7 +10,7 @@ GitHub is so often touted as a tool for coding projects that it's easy to forget
 
 |   DAILY READING ASSIGNMENT | URL |
 | ------------- | ------------- |
-| Introduction about HTML,CSS AND JavaScript  |   [class-01](https://aseelhussein96.github.io/reading-notes/Read02markdown)     |
+| Introduction about HTML,CSS AND JavaScript  |   [class-01](https://aseelhussein96.github.io/Reading-Note/class-01)     |
 | ASSIGNMENT 2 |                |
 | ASSIGNMENT 3 |                | 
 | ASSIGNMENT 4 |                |
