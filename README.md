@@ -8,9 +8,9 @@ GitHub is so often touted as a tool for coding projects that it's easy to forget
 
 ## Code 201 Reading Notes.
 
-|   DAILY READING ASSIGNMENT | Second Header |
+|   DAILY READING ASSIGNMENT | URL |
 | ------------- | ------------- |
-| ASSIGNMENT 1  |               |
+| Introduction about HTML,CSS AND JavaScript  |  ( https://aseelhussein96.github.io/Reading-Note/class-01 )     |
 | ASSIGNMENT 2 |                |
 | ASSIGNMENT 3 |                | 
 | ASSIGNMENT 4 |                |
