@@ -1,4 +1,6 @@
-# Web site 
+# INTRODUCTION ABOUT HTML AND CSS.
+
+### Web site 
 * what is a website: a set of related web pages located under a single domain name, typically produced by a single person or organization. We said how to design or create a website, and how to make it more easier to user. 
  # a procures can use it to design  a web site :
  - first you must understand what your web page will contain and what is used for.
@@ -51,5 +53,18 @@ Wire frame its a draw on paint or any app you can draw its have navigation and m
 - at the bottom its footer its the end of page .
 
 
-# Intro OF JavaScript:
+# Introduction about jacaScript.
 Access content: we use JavaScript to select any element or attribute for html text page to run my page you start use to write head text in html then write id inside to make it run in JavaScript. and id its use it for one element and class attribute for more than one. modify content: You can use JavaScript to add elements, attributes, and text to the page. program rule: it will check for you if it will be use write at JavaScript like A mortgage calculator could collect values from a form, perform calculation, and display repayments. react to events : you can chose the script should be run to specific event like you will add a bottom to run or link to open it.] JavaScript you used it to make your web become better look or make update for your webpage to be more useful and use it better.
+
+### The ABC of Programming : 
+•	*What is a scripts?*
+After you know what is your goal of your scrips, you can start to task your visual tasks that you need to achieve it. So you start to write it like step, every step of  cods depend to another ,When you are ready to code the scripts These step will translated into individual code. Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task programmatically.
+
+•	*How computer fit in with the world around them?*
+Computer create models with world by using data, this data or model , model is a computer program that is designed to simulate what might or what did happen in a situation. They are used in many ways including in astronomy, economics and sciences such as physics and biology. ... Agent-based modelling is used to simulate social interactions in artificial Intelligence. So the programmers can write any code to say when this code be occurs and run it .
+-	So the programming use the HTML to markup and create the model of the web page, and to make it more attractive you write code that use the browser model in css.
+•	*How do I write a script for a webpage?*
+Within a browser, JavaScript doesn't do anything by itself. You run JavaScript from inside your HTML webpages. To call JavaScript code from within HTML, you need the <script> element. There are two ways to use script, depending on whether you're linking to an external script or embedding a script right in your webpage.
+Usually, you'll be writing scripts in their own .js files. If you want to execute a .js script from your webpage, just use <script> with an src attribute pointing to the script file, using its URL:
+>	<script src="path/to/my/script.js"></script>
+
