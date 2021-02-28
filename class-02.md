@@ -41,35 +41,10 @@ Semantic HTML elements are those that clearly describe their meaning in a human-
 ---
 **EXAMPLE OF HTML PAGE **
 
-<html>
-<head>
- <title>Text</title>
-</head>
-<body>
- <h1>The Story in the Book</h1>
- <h2>Chapter 1</h2>
- <p>Molly had been staring out of her window for about
- an hour now. On her desk, lying between the copies
- of <i>Nature</i>, <i>New Scientist</i>, and all
- the other scientific journals her work had
- appeared in, was a well thumbed copy of <cite>On
- The Road</cite>. It had been Molly's favorite book
- since college, and the longer she spent in these
- four walls the more she felt she needed to be
- free.</p>
- <p>She had spent the last ten years in this room,
- sitting under a poster with an Oscar Wilde quote
- proclaiming that <q>Work is the refuge of
- people who have nothing better to do</q>. Although
- many considered her pioneering work, unraveling
- the secrets of the llama <abbr
- title="Deoxyribonucleic acid">DNA</abbr>, to be an
- outstanding achievement, Molly <em>did</em> think
- she had something better to do.</p>
-</body>
-</html>
+(![LAB02](https://user-images.githubusercontent.com/79087366/109434170-9dcc0a80-7a1c-11eb-96fd-a5e0ea6f2f49.png)
+)
 
-*SORCE FROM BOOK HTML AND CSS-  JON DUCKETT
+*SORCE FROM BOOK HTML AND CSS JON DUCKETT
 ---
 
 # CSS : 
