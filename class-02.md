@@ -42,7 +42,6 @@ Semantic HTML elements are those that clearly describe their meaning in a human-
 **EXAMPLE OF HTML PAGE **
 
 (![LAB02](https://user-images.githubusercontent.com/79087366/109434170-9dcc0a80-7a1c-11eb-96fd-a5e0ea6f2f49.png)
-)
 
 *SORCE FROM BOOK HTML AND CSS JON DUCKETT
 ---
@@ -107,6 +106,12 @@ Like other languages, JavaScript also provides many decision making statements l
  - While loop : a while statement is a loop that executes as long as the specified condition evaluates to true. The syntax is very similar to an if statement, as seen below. The while statement is the most basic loop to construct in JavaScript.
  - for loop :The For Loop in JavaScript is the best method to iterate through a series of data at the same time. For loop is an entry-controlled loop in which the test condition checked before going to the body of the program. For loop is used when we know the number of iterations before entering the loop. 
 
+i done write summary from js duckett and html duckett
+- [x] (Chapter 2 "text")
+
+- [x] (Chapter 10 “Introducing CSS")
+- [x] (Chapter 2: “Basic JavaScript Instructions”)
+- [x] (Chapter 4: “Decisions and Loops)
 
 
  
