@@ -60,3 +60,61 @@ thers a lot of css selectore its used every select have rule or target to used. 
 > WHAT ARE THE 3 TYPE OF CSS? 
 Difference Between the 3 Types of CSS Styles: Inline, External and Internal. In this tutorial, you will learn the difference between the three types of CSS styles: inline, external, and internal.
 
+# JAVASCRIPTS: 
+> JavaScript ("JS" for short) is a full-fledged dynamic programming language that can add interactivity to a website. It was invented by Brendan Eich (co-founder of the Mozilla project, the Mozilla Foundation, and the Mozilla Corporation).
+
+JavaScript is versatile and beginner-friendly. With more experience, you'll be able to create games, animated 2D and 3D graphics, comprehensive database-driven apps, and much more!
+
+JavaScript itself is relatively compact, yet very flexible. Developers have written a variety of tools on top of the core JavaScript language, unlocking a vast amount of functionality with minimum effort. These include:
+
+- Browser Application Programming Interfaces (APIs) built into web browsers, providing functionality such as dynamically creating HTML and setting CSS styles; collecting and manipulating a video stream from a user's webcam, or generating 3D graphics and audio samples.
+- Third-party APIs that allow developers to incorporate functionality in sites from other content providers, such as Twitter or Facebook.
+- Third-party frameworks and libraries that you can apply to HTML to accelerate the work of building sites and applications.
+### script : 
+The <script> element either contains scripting statements, or it points to an external script file through the src attribute. Common uses for JavaScript are image manipulation, form validation, and dynamic changes of content. 
+> Language basics crash course: 
+1 - Variables : Variables are containers that store values. You start by declaring a variable with the var (less recommended, dive deeper for the explanation) or the let keyword.
+ JavaScript variables can hold numbers like 100 and text values like "John Doe".In programming, text values are called text strings.JavaScript can handle many types of data, but for now, just think of numbers and strings.
+Strings are written inside double or single quotes. Numbers are written without quotes.
+f you put a number in quotes, it will be treated as a text string.
+ 
+ 2 - Comment: are meaningful way to deliver message. It is used to add information about the code, warnings or suggestions so that end user can easily interpret the code. The JavaScript comment is ignored by the JavaScript engine i.e. embedded in the browser.Advantages of JavaScript comments.
+ 3 -Array : An array is a single variable in JavaScript that is used to store various elements. When we want to store a list of elements and access them through a single variable, it is often used. Unlike many other languages where an array is a various variable reference, there is a single variable in the JavaScript array that stores various elements.
+ ### EXperssion in javascripts : 
+ An expression is any valid unit of code that resolves to a value.
+
+Every syntactically valid expression resolves to some value but conceptually, there are two types of expressions: with side effects for example: those that assign value to a variable and those that in some sense evaluate and therefore resolve to a value.
+
+The expression x = 7 is an example of the first type. This expression uses the = operator to assign the value seven to the variable x. The expression itself evaluates to seven.
+
+The code 3 + 4 is an example of the second expression type. This expression uses the + operator to add three and four together without assigning the result, seven, to a variable.
+
+JavaScript has the following expression categories:
+
+- Arithmetic: evaluates to a number, for example 3.14159. *Generally uses arithmetic operators.*
+- String: evaluates to a character string, for example, "Fred" or "234". *Generally uses string operators.*
+- Logical: evaluates to true or false. *Often involves logical operators.*
+- Primary expressions: Basic keywords and general expressions in JavaScript.
+- Left-hand-side expressions: Left values are the destination of an assignment.
+
+## Decision and loops : 
+Like other languages, JavaScript also provides many decision making statements like if, else etc. 
+- if statement : if is used to check for a condition whether its true or not. Condition could be any expression that returns true or false. When condition satisfies then statements following if statement are executed.If you have only one statement to be executed after the if condition then you can drop the curly braces ({ }). For more than one statement use curly braces.
+- else statement : else statements are used with if statements. When if condition gets fail then else statement is executed.You can drop off the curly braces with else too if there is a single statement to be executed within else.
+ - else if statement : Suppose there are variety of conditions that you want to check. You can use multiple if statements to do this task. All the if conditions will be checked one by one. But what if you want that if one condition satisfies then don't perform further conditional checks. At this point else if statement is what you need.
+ - switch statement : switch statements do the same task that else if statements do. But use switch statements when conditions are more. In that case, switch statements perform better than else if statements.
+ > Loops in javascript : Loops are used to execute a specific statement for a given number of times. Loops are always followed by some condition. JavaScript provides all the basic loops that other programming languages have.
+ - While loop : a while statement is a loop that executes as long as the specified condition evaluates to true. The syntax is very similar to an if statement, as seen below. The while statement is the most basic loop to construct in JavaScript.
+ - for loop :The For Loop in JavaScript is the best method to iterate through a series of data at the same time. For loop is an entry-controlled loop in which the test condition checked before going to the body of the program. For loop is used when we know the number of iterations before entering the loop. 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
