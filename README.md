@@ -11,9 +11,9 @@ GitHub is so often touted as a tool for coding projects that it's easy to forget
 |   DAILY READING ASSIGNMENT | URL |
 | ------------- | ------------- |
 | Introduction about HTML,CSS AND JavaScript  |   [class-01](https://aseelhussein96.github.io/Reading-Note/class-01)     |
-| ASSIGNMENT 2 |                |
-| ASSIGNMENT 3 |                | 
-| ASSIGNMENT 4 |                |
+| java loop | [class-02](https://aseelhussein96.github.io/Reading-Note/class-02)                |
+| HTml and JS expressiom |[class-03](https://aseelhussein96.github.io/Reading-Note/read03)                 | 
+| HTML Links, JS Functions, and Intro to CSS Layout | [class-04](https://aseelhussein96.github.io/Reading-Note/read04)                |
 | ASSIGNMENT 5 |                |
 |ASSIGNMENT 6 |                 |
 |ASSIGNMENT 7|                  |
