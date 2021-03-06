@@ -14,7 +14,7 @@ GitHub is so often touted as a tool for coding projects that it's easy to forget
 | java loop | [class-02](https://aseelhussein96.github.io/Reading-Note/class-02)                |
 | HTml and JS expressiom |[class-03](https://aseelhussein96.github.io/Reading-Note/read03)                 | 
 | HTML Links, JS Functions, and Intro to CSS Layout | [class-04](https://aseelhussein96.github.io/Reading-Note/read04)                |
-| ASSIGNMENT 5 |                |
+| html and type of img |[class-05](https://aseelhussein96.github.io/Reading-Note/read05)               |
 |ASSIGNMENT 6 |                 |
 |ASSIGNMENT 7|                  |
 |ASSIGNMENT 8 |                 |
