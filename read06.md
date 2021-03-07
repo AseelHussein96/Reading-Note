@@ -1,3 +1,16 @@
+# object Literals: 
+A JavaScript object literal is a comma-separated list of name-value pairs wrapped in curly braces. Object literals encapsulate data, enclosing it in a tidy package. This minimizes the use of global variables which can cause problems when combining code.
+> What is object in JavaScript?
+JavaScript is designed on a simple object-based paradigm. An object is a collection of properties, and a property is an association between a name (or key) and a value. ... In addition to objects that are predefined in the browser, you can define your own objects.
+> How do you create an object in JavaScript?
+1 -Define and create a single object, using an object literal.
+2 -Define and create a single object, with the keyword new .
+3 -Define an object constructor, and then create objects of the constructed type.
+> You can access the properties of an object in JavaScript in 3 ways:
+Dot property accessor: object.property
+Square brackets property access: object['property']
+Object destructuring: const { property } = object
+
 # Document Object Model
 The Document Object Model (DOM) connects web pages to scripts or programming languages by representing the structure of a document—such as the HTML representing a web page—in memory. Usually, that means JavaScript, although modeling HTML, SVG, or XML documents as objects are not part of the core JavaScript language, as such.
 > THE DOM TREE IS A MODEL OF A WEB PAGE:A DOM tree starts from the topmost element which is html element and branches out as per the occurrence and nesting of HTML elements in the document. Whenever an HTML element is found, it creates a DOM node (Node) object from its respective class (constructor function).
