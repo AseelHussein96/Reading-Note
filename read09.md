@@ -19,7 +19,7 @@ There are various form elements available like text fields, textarea fields, dro
   - list The CSS list-style-type property is used to define the style of the list item marker: An ordered list starts with the <ol> tag. Each list item starts with the <li> tag. The type attribute of the <ol> tag, defines the type of the list item marker: HTML also supports description lists.The list-style-position property defines where to position the list marker, and it accepts one of two values: inside or outside. These are demonstrated below with the padding removed from the lists and a left red border added.
   **list style type**
 - Bullet Point Styles = a thick point symbol used to create a top-down list of text to express the start of the item in the list. Bullet points also called as Bullet List in HTML or Word terminology. Even a thick point is used it is called as a bullet.
-> bullet poiny symbols:Bullet point uses a thick point as default symbol. But there are diferent alternatives which can be used for bullet point, like : Tick Point
+> bullet poiny symbols:Bullet point uses a thick point as default symbol. But there are diferent alternatives which can be used for bullet point, like : 
 1 -Thin point
 2- Empty point
 3 -Square
@@ -28,17 +28,19 @@ There are various form elements available like text fields, textarea fields, dro
 6 -Uppercase Letter
 7 -Lowercase Letter
 9- Number
+  
   > Images for BULLETS = In this article, we have given some list items and the task is to create a list items with image bullets.  This task can be done by using the list-style-image property in CSS.  This property is used to set the image that will be used as the list item marker.
-  > position the maker =The list-style-position property specifies the position of the list-item markers (bullet points).
+  >  osition the maker =The list-style-position property specifies the position of the list-item markers (bullet points).
 
 list-style-position: *outside*; means that the bullet points will be outside the list item.The start of each line of a list item will be aligned vertically.list-style-position, *inside* means that the bullet points will be inside the list item. As it is part of the list item, it will be part of the text and push the text at the start.
 - tables: The HTML tables allow web authors to arrange data like text, images, links, other tables, etc. into rows and columns of cells. The HTML tables are created using the <table> tag in which the <tr> tag is used to create table rows and <td> tag is used to create data cells.The cellpadding attribute of HTML table tag is obselete now. It is recommended to use CSS. So let's see the code of CSS. We can specify the HTML table width using the CSS width property. It can be specify in pixels or percentage. We can adjust our table width as per our requirement. Following is the example to display table with width.
   and the A table header is defined with the “th” tag. By default, table headings are bold and centered. A table data/cell is defined with the “td” tag. Adding a border to a HTML Table: A border is set using the CSS border property. If you do not specify a border for the table, it will be displayed without borders.
   
-  ![table code][https://www.guru99.com/images/image019(1).png]
+  ![ablecode](tps://www.guru99.com/images/image019(1).png)
+  
   -forms :An HTML form is a section of a document which contains controls such as text fields, password fields, checkboxes, radio buttons, submit button, menus etc.An HTML form facilitates the user to enter data that is to be sent to the server for processing such as name, email address, password, phone number, etc. .
   
-  ![forms][https://image.slidesharecdn.com/formsinhtml5-151129184009-lva1-app6892/95/forms-in-html5-3-638.jpg?cb=1448822487]
+  ![forms](ttps://image.slidesharecdn.com/formsinhtml5-151129184009-lva1-app6892/95/forms-in-html5-3-638.jpg?cb=1448822487)
   
 # EVENTS IN JS : 
   Events allow JavaScript to detect when a certain action has been performed by the user, e.g. hovering over an element, clicking a link, scrolling the page, resizing the window, dragging an object or any other activity.
@@ -52,7 +54,7 @@ Events are a part of the Document Object Model (DOM) Level 3 and every HTML elem
 > onmouseover and onmouseout: These two event types will help you create nice effects with images or even with text as well. The onmouseover event triggers when you bring your mouse over any element and the onmouseout triggers when you move your mouse out from that elemen.
 
 
-  ![table code][https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/Ways-of-Using-JavaScript-Events.png]
+  ![table code](tps://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/Ways-of-Using-JavaScript-Events.png)
  
   
 
